@@ -1,0 +1,263 @@
+﻿﻿body {
+	background-color: 555555;}
+    @font-face {
+			font-family: "GothamProBold";
+			src: url("../fonts/GothamProBold/GothamProBold.eot");
+			src: url("../fonts/GothamProBold/GothamProBold.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProBold/GothamProBold.woff") format("woff"),
+			url("../fonts/GothamProBold/GothamProBold.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+}
+@font-face {
+			font-family: "GothamProLight";
+			src: url("../fonts/GothamProLight/GothamProLight.eot");
+			src: url("../fonts/GothamProLight/GothamProLight.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProLight/GothamProLight.woff") format("woff"),
+			url("../fonts/GothamProLight/GothamProLight.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+.menu {
+	height: 20px;
+	width: 1660px;
+	font-family: "GothamProBold",sans-serif;
+	position: absolute;
+	top: 28px;
+	left: 260px;
+	color: #48494a;
+}
+.kat {
+	position: absolute;
+    left: 962px;
+    top: 1px;
+}
+.akc {
+	position: absolute;
+    left: 1073px;
+    top: 1px;
+}
+.inf {
+	position: absolute;
+    left: 1169px;
+    top: 1px;
+}
+.con {
+	position: absolute;
+    left: 1314px;
+    top: 1px;
+}
+.com {
+    font-family: "GothamProLight",sans-serif;
+	height: 574px;
+	width: 1920px;
+	position: absolute;
+	top: 70px;
+	left: 0px;
+	background-color: #f1f1f1;
+	color: #48494a;
+}
+.pop {
+	font-family: "GothamProBold",sans-serif;
+	position: absolute;
+    left: 257px;
+    top: 39px;
+}
+.vki {
+	height: 34px;
+	width: 152px;
+	position: absolute;
+	top: 43px;
+	left: 1507px;
+	background-color: #e43030;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+	border-radius: 3px;
+	box-shadow:  0px 13px 20px 4px #ef9595;
+}
+.card {
+    font-family: "GothamProBold",sans-serif;
+	height: 340px;
+	width: 335px;
+	position: absolute;
+	top: 113px;
+	left: 260px;
+	background-color: #ffffff; 
+}
+.card2 {
+    font-family: "GothamProBold",sans-serif;
+	height: 340px;
+	width: 335px;
+	position: absolute;
+	top: 113px;
+	left: 616px;
+	background-color: #ffffff; 
+}
+.card3 {
+    font-family: "GothamProBold",sans-serif;
+	height: 340px;
+	width: 335px;
+	position: absolute;
+	top: 113px;
+	left: 970px;
+	background-color: #ffffff; 
+}
+.card4 {
+    font-family: "GothamProBold",sans-serif;
+	height: 340px;
+	width: 335px;
+	position: absolute;
+	top: 113px;
+	left: 1324px;
+	background-color: #ffffff; 
+}
+.uc {
+	position: absolute;
+	height: 98px;
+	width: 335px;
+	top: 242px;
+	box-shadow:  2px 2px 5px 3px #dcdcdc;
+	background-color: #ffffff; 
+}
+.uc2 {
+	position: absolute;
+	height: 98px;
+	width: 335px;
+	top: 242px;
+	box-shadow:  0px 5px 10px 5px #dcdcdc;
+	background-color: #ffffff; 
+}
+.wez {
+	position: absolute;
+	height: 340px;
+	width: 360px;
+}
+.sh {
+	position: absolute;
+	height: 340px;
+	width: 360px;
+	top: 0px;
+}
+.tex {
+	height: 25px;
+	width: 200px;
+	position: absolute;
+	top: 196px;
+    left: 20px;
+}
+.tex2 {
+	height: 25px;
+	width: 200px;
+	position: absolute;
+	top: 171px;
+    left: 20px;
+}
+.fend {
+	height: 25px;
+	width: 55px;
+	position: absolute;
+	top: 10px;
+    left: 21px;
+}
+.cena {
+    font-family: "GothamProLight",sans-serif;
+	height: 30px;
+	width: 160px;
+	position: absolute;
+	top: 285px;
+	left: 21px;
+	color: #000000;
+	background-color: #fffbd7;
+	text-indent: 5px;
+	line-height: 33px;
+}
+.cena2 {
+    font-family: "GothamProLight",sans-serif;
+	height: 30px;
+	width: 177px;
+	position: absolute;
+	top: 285px;
+	left: 21px;
+	color: #000000;
+	background-color: #fffbd7;
+	text-indent: 5px;
+	line-height: 33px;
+}
+.it {
+	font-family: "GothamProLight",sans-serif;
+	height: 20px;
+	width: 80px;
+	position: absolute;
+	top: 295px;
+	left: 187px;
+	color: #80848d;
+}
+.adr {
+	font-family: "GothamProlight",sans-serif;
+	height: 20px;
+	width: 260px;
+	position: absolute;
+	top: 258px;
+	left: 22px;
+	color: #48494a;
+}
+.pict {
+	height: 29px; 
+	width: 81px
+}
+.elp {
+	height: 25px;
+	width: 55px;
+	position: absolute;
+	top: 256px;
+    left: 246px;
+}
+.like {
+	height: 25px;
+	width: 55px;
+	position: absolute;
+	top: 10px;
+    left: 289px;
+}
+.set {
+	height: 70px;
+	width: 180px;
+	position: absolute;
+	top: 684px;
+    left: 378px;
+    color: #80868e;
+}
+.fb {
+	position: absolute;
+	top: 39px;
+}
+.tw {
+	position: absolute;
+	top: 43px;
+	left: 46px;
+}
+.yt {
+	position: absolute;
+	top: 42px;
+	left: 95px;
+}
+.ig {
+	position: absolute;
+	top: 40px;
+	left: 151px;
+}
+.dev {
+	height: 35px;
+	width: 180px;
+	position: absolute;
+	top: 690px;
+    left: 1394px;
+}
+.raz {
+	height: 35px;
+	width: 180px;
+	position: absolute;
+	top: -6px;
+    left: 45px;
+}
